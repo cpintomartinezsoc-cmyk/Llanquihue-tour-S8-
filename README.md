@@ -188,7 +188,7 @@ Su función consiste en:
 
 4. Verificar que todas las clases se encuentren organizadas en los paquetes correspondientes.
 
-5. Ejecutar la clase:nui/Main.java
+5. Ejecutar la clase: ui/Main.java
 
 6. Utilizar el menú con botones para registrar nuevas entidades.
 
