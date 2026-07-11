@@ -182,7 +182,7 @@ Su función consiste en:
 
 1. Clonar el repositorio desde GitHub.
 
-2.git clone https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S8.git
+2. git clone https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S8.git
 
 3. Abrir el proyecto en IntelliJ IDEA.
 
