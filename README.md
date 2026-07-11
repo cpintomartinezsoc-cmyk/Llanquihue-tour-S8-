@@ -182,21 +182,13 @@ Su función consiste en:
 
 1. Clonar el repositorio desde GitHub.
 
-2.
-
-```bash
-git clone https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S8.git
-```
+2.git clone https://github.com/cpintomartinezsoc-cmyk/Llanquihue-tour-S8.git
 
 3. Abrir el proyecto en IntelliJ IDEA.
 
 4. Verificar que todas las clases se encuentren organizadas en los paquetes correspondientes.
 
-5. Ejecutar la clase:
-
-```
-ui/Main.java
-```
+5. Ejecutar la clase:nui/Main.java
 
 6. Utilizar el menú con botones para registrar nuevas entidades.
 
